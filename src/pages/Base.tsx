@@ -34,7 +34,7 @@ export default function Home() {
             Over ons
           </div>
           <div className="flex">
-            <img src="/lennart.png" className="w-64 rounded-md mt-8 mr-8" alt="Lennart" />
+            <img src="./public/lennart.png" className="w-64 rounded-md mt-8 mr-8" alt="Lennart" />
             <p className="text-xl mt-8">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum dolores officia nesciunt, eius accusamus, id ab, quas necessitatibus at distinctio fuga alias quidem inventore ratione voluptatem ullam praesentium! Itaque, quae?
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt doloribus earum maiores quia quaerat totam sequi, vitae a dolorem consequuntur corporis amet ipsum? Veniam impedit vero tenetur facere iure dicta.
