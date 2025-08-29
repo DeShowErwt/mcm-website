@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #a28736;
+    --color-secondary: #5b4200;
+    --color-background: #f4f3ef;
+}
+
+:root {
+    font-family: Georgia;
+}
